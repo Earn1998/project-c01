@@ -39,7 +39,7 @@ class _LocationPageState extends State<LocationPage> {
       position: endLocation, //position of marker
       infoWindow: const InfoWindow(
         //popup info
-        title: 'Destination Point ',
+        title: 'Destination Pointtt ',
         snippet: 'Destination Marker',
       ),
       icon: BitmapDescriptor.defaultMarker, //Icon for Marker
